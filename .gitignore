@@ -20,3 +20,4 @@ state/*.db
 
 # Temporary files
 *.log
+.env

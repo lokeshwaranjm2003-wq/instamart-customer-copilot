@@ -13,8 +13,8 @@ The project combines data cleaning, SQLite analytics, customer segmentation, lap
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd instamart-capstone
+git clone https://github.com/lokeshwaranjm2003-wq/instamart-customer-copilot.git
+cd instamart-customer-copilot
 ```
 
 ### 2. Create a virtual environment
