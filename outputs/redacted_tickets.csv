@@ -1,0 +1,165 @@
+ticket_id,customer_id,redacted_text
+T0024,C0486,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0073,C0080,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0095,C1087,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0159,C1172,
+T0080,C0910,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0124,C0139,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0061,C0812,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0118,C0355,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0037,C1156,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0002,C0881,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0163,C0322,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.
+T0031,C0958,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0047,C0756,"I cannot login, the OTP never arrives on [PHONE]."
+T0063,C0892,"I cannot login, the OTP never arrives on [PHONE]."
+T0121,C0852,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0139,C0829,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0115,C1025,"I cannot login, the OTP never arrives on [PHONE]."
+T0123,C0674,"I cannot login, the OTP never arrives on [PHONE]."
+T0116,C0294,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0136,C0891,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0008,C1177,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0102,C0985,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0072,C0218,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0101,C1151,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0059,C0764,"I cannot login, the OTP never arrives on [PHONE]."
+T0049,C0078,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0153,C0150,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0050,C0117,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0147,C0125,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0074,C1119,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0156,C0328,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0145,C0751,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0053,C0447,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0134,C0608,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0039,C0298,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0016,C0962,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0055,C1063,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0130,C0692,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0099,C1000,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0062,C0403,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0013,C0507,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0137,C0978,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0152,C0530,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0144,C0521,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0094,C0863,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0021,C0909,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0077,C0082,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0036,C0173,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0113,C0077,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0060,C0784,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0043,C0942,"I cannot login, the OTP never arrives on [PHONE]."
+T0048,C0733,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0154,C1071,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0125,C1156,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0146,C1024,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0107,C0783,"I cannot login, the OTP never arrives on [PHONE]."
+T0011,C0233,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0017,C0028,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0111,C1033,"I cannot login, the OTP never arrives on [PHONE]."
+T0041,C0464,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0120,C0208,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0122,C0404,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0001,C0851,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0064,C0848,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0092,C0585,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0038,C0882,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0155,C0285,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0104,C0815,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0012,C0335,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0084,C0569,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0051,C1049,"I cannot login, the OTP never arrives on [PHONE]."
+T0143,C0339,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0035,C1175,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0028,C1036,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0100,C0754,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0022,C1160,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0082,C0168,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0127,C0976,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0162,C0665,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.
+T0109,C1080,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0046,C0442,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0081,C0559,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0007,C0682,"I cannot login, the OTP never arrives on [PHONE]."
+T0068,C0208,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0085,C0031,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0075,C0901,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0052,C1005,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0066,C1199,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0151,C1011,"I cannot login, the OTP never arrives on [PHONE]."
+T0131,C0069,"I cannot login, the OTP never arrives on [PHONE]."
+T0006,C0177,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0135,C0303,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0079,C1128,"I cannot login, the OTP never arrives on [PHONE]."
+T0040,C0256,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0093,C0131,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0089,C0860,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0034,C1188,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0033,C0714,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0160,C0670,
+T0087,C0797,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0009,C0758,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0108,C0340,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0054,C0571,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0025,C0610,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0004,C0721,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0148,C1057,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0088,C0852,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0030,C0015,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0067,C0704,"I cannot login, the OTP never arrives on [PHONE]."
+T0029,C0885,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0129,C0237,I was charged twice for order [ORDER_ID]. Please refund the extra payment. My email is [EMAIL]
+T0105,C0063,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0045,C0628,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0069,C0491,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0010,C1190,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0023,C0400,"I cannot login, the OTP never arrives on [PHONE]."
+T0106,C0197,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0015,C0488,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0091,C0796,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0126,C0996,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0096,C0324,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0149,C0770,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0070,C1150,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0026,C0677,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0097,C0932,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0132,C0282,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0027,C0232,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0119,C0629,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0157,C1107,
+T0058,C0287,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0110,C0056,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0018,C1135,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0032,C1139,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0003,C0591,"I cannot login, the OTP never arrives on [PHONE]."
+T0042,C0508,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0056,C0140,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0114,C0619,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0083,C0356,"I cannot login, the OTP never arrives on [PHONE]."
+T0138,C0720,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0057,C1199,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0076,C0418,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0019,C0579,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0103,C0499,The payment page shows an error and the app freezes when I apply a coupon. Order [ORDER_ID].
+T0164,C0794,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.
+T0090,C0322,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0112,C0432,"I was charged for order [ORDER_ID] that I never made, it looks like fraud on my account. Call [PHONE]."
+T0133,C0717,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0014,C0579,"Delivery for [ORDER_ID] is very late, it was promised in 20 minutes. Write to [EMAIL]"
+T0158,C1106,
+T0020,C0460,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0142,C0605,My order [ORDER_ID] has not arrived and the rider is not picking up calls. Please call [PHONE].
+T0086,C1132,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0141,C0376,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0044,C0862,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0117,C0465,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0078,C0586,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0140,C1173,There is an unauthorized transaction on my card linked to order [ORDER_ID]. I did not place it. Call [PHONE].
+T0071,C0966,The app crashes every time I open the cart. I tried to place [ORDER_ID] again and got an error. Email [EMAIL]
+T0161,C0202,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.
+T0150,C0622,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
+T0065,C0205,The invoice for [ORDER_ID] shows a wrong amount. Call me on [PHONE] to correct the bill.
+T0128,C0467,"Someone hacked my account and used my wallet balance. This is fraud, contact [EMAIL]"
+T0005,C0404,"Extra money was deducted for order [ORDER_ID], please check the bill. Contact [EMAIL]"
+T0098,C0343,The rider marked [ORDER_ID] as delivered but I never received the package. Call [PHONE].
