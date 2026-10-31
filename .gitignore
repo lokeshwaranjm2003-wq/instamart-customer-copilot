@@ -21,3 +21,8 @@ state/*.db
 # Temporary files
 *.log
 .env
+# Local runtime state and checkpoints
+state/
+
+# Local backup files
+*_backup.py

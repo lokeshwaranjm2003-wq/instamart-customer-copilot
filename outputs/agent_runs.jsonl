@@ -1,0 +1,7 @@
+{"run_id": "log_test", "scenario_id": "S1", "status": "TEST", "tokens_used": 100, "tool_count": 1, "tools": ["get_order"]}
+{"run_id": "auto_log_demo", "scenario_id": "S6", "status": "NOT_FOUND: no such order.", "tokens_used": 56, "tool_count": 1, "tools": ["get_order"]}
+{"run_id": "timeout_log_test", "scenario_id": "manual", "status": "FALLBACK_TIMEOUT", "tokens_used": 0, "tool_count": 0, "tools": []}
+{"run_id": "token_log_test", "scenario_id": "manual", "status": "FALLBACK_TOKEN_LIMIT", "tokens_used": 22, "tool_count": 0, "tools": []}
+{"run_id": "max_iter_log_test_2", "scenario_id": "manual", "status": "FALLBACK_MAX_ITERATIONS", "tokens_used": 0, "tool_count": 0, "tools": []}
+{"run_id": "max_iter_log_test_2", "scenario_id": "manual", "status": "FALLBACK_MAX_ITERATIONS", "tokens_used": 0, "tool_count": 0, "tools": []}
+{"run_id": "checkpoint_demo", "scenario_id": "S1", "status": "ALREADY_REFUNDED: Refund was previously recorded.", "tokens_used": 820, "tool_count": 4, "tools": ["get_order", "search_policy", "calculate_refund", "issue_refund"]}

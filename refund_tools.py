@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 DB_PATH = Path("data/instamart.db")
 STATE_DIR = Path("state")
 STATE_DIR.mkdir(exist_ok=True)
-STATE_DB = STATE_DIR / "refunds.db"
+STATE_DB = STATE_DIR / "refunds_test.db"
 
 MAX_AUTO_REFUND = 1000.0
 LATE_DELIVERY_MINUTES = 45
