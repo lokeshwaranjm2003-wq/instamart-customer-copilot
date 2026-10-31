@@ -17,6 +17,26 @@ git clone https://github.com/lokeshwaranjm2003-wq/instamart-customer-copilot.git
 cd instamart-customer-copilot
 ```
 
+### Run the Complete Project
+
+After installing the dependencies and activating the virtual environment, run:
+
+```bash
+python run_all.py
+```
+
+This command executes all 11 pipeline steps in sequence:
+
+- Part A: Data cleaning and SQLite database creation
+- Part B: Customer segmentation and lapse prediction
+- Part C: Support ticket redaction, classification, and routing
+- Part D: Policy retrieval, policy assistant, and refund agent
+
+The runner stops if any step fails and displays the execution time.
+
+**Note:** Running the pipeline may regenerate existing data and output files. The refund agent uses a local SQLite state database to prevent duplicate refunds.
+
+
 ### 2. Create a virtual environment
 
 ```bash
